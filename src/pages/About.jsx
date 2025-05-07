@@ -16,7 +16,7 @@ function About() {
                 <button className="btn">Read More</button>
             </div>
             <div className="about-img">
-                <img src="/pic.jpg" alt="About" />
+                <img src="/Portfolio_Multipage/pic.jpg" alt="ako"/>
             </div>
         </section>
     );

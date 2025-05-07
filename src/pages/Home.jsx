@@ -4,7 +4,7 @@ function Home() {
     return (
         <section className="home" id="home">
             <div className="home-img">
-                <img src="/pic.jpg" alt="Profile" />
+                <img src="/Portfolio_Multipage/pic.jpg" alt="ako" />
             </div>
 
             <div className="home-content">
